@@ -23,6 +23,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Mobile-first workflow
 
 
-## My links
+## Profile
 
 - Frontend Mentor - [@sadhana08](https://www.frontendmentor.io/profile/sadhana08)
